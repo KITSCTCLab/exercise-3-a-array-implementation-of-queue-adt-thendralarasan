@@ -30,7 +30,7 @@ class Solution:
         """
         return self.top == -1
 
-    def is_queue_empty(self):
+    def is_queue_empty(self
         """
         Check whether the queue is empty.
         Returns:
